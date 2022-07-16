@@ -41,7 +41,7 @@ npm config set registry http://registry.npmmirror.com
 
 - [pnpm](https://pnpm.io)
 ```bash
-npm install -g pnpm
+npm install --location=global pnpm
 pnpm -v
 # Set up store dir
 pnpm config set store-dir D:\dev-data\.pnpm-store
@@ -49,7 +49,7 @@ pnpm config set store-dir D:\dev-data\.pnpm-store
 
 - [antfu/ni](https://github.com/antfu/ni)
 ```bash
-npm i -g @antfu/ni
+npm install --location=global @antfu/ni
 ```
 
 ### JDK
