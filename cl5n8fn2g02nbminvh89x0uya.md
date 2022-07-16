@@ -43,6 +43,8 @@ npm config set registry http://registry.npmmirror.com
 ```bash
 npm install -g pnpm
 pnpm -v
+# Set up store dir
+pnpm config set store-dir D:\dev-data\.pnpm-store
 ```
 
 - [antfu/ni](https://github.com/antfu/ni)
@@ -56,7 +58,7 @@ View the article [Download Oracle JDK Without login](https://blog.edch.top/downl
 
 Create or update the system variable `JAVA_HOME` and set its value as `D:\dev-app\jdk\jdk1.8.0_333\` (The directory where you installed the JDK).
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657935315747/emluonQsV.png align="left")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657979158345/CjFc1SzUx.png align="left")
 
 The add a record `%JAVA_HOME%\bin` in the system variable `path`.
 
@@ -72,7 +74,7 @@ javap -version
 
 - [Git](https://gitforwindows.org)
 - [Chrome](https://www.google.com/intl/zh-CN/chrome)
-- [Jetbrains](https://www.jetbrains.com/toolbox-app)
+- [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app)
 - [MySQL Community Installer](https://dev.mysql.com/downloads/installer)
 - [VS Code](https://code.visualstudio.com)
 
