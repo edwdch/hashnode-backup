@@ -78,6 +78,7 @@ javap -version
 - [MySQL Community Installer](https://dev.mysql.com/downloads/installer)
 - [VS Code](https://code.visualstudio.com)
 - [Fira Code](https://github.com/tonsky/FiraCode)
+- [Noto Sans Simplified Chinese](https://fonts.google.com/noto/specimen/Noto+Sans+SC)
 
 
 
