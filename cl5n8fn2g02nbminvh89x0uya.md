@@ -77,6 +77,7 @@ javap -version
 - [Jetbrains Toolbox](https://www.jetbrains.com/toolbox-app)
 - [MySQL Community Installer](https://dev.mysql.com/downloads/installer)
 - [VS Code](https://code.visualstudio.com)
+- [Fira Code](https://github.com/tonsky/FiraCode)
 
 
 
